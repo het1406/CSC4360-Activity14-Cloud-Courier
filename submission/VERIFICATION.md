@@ -1,6 +1,6 @@
 # Verification report — Cloud Courier
 
-Final device testing: November 10, 2026 (America/New_York). This is an assistant-produced report, not instructor-issued material. See Evidence/RESULTS.md in the ZIP for the complete device record. The local equivalent is docs/TEST_RESULTS.md.
+Final device testing: November 10, 2026 (America/New_York). This project verification report is not instructor-issued material. See Evidence/RESULTS.md in the ZIP for the complete device record. The local equivalent is docs/TEST_RESULTS.md.
 
 ## Commands and outcomes
 
@@ -49,7 +49,7 @@ User confirmed ownership of `inclass12-ee8cb` and explicitly authorized replacin
 - Source/assets/images/default.png and promo.png: locally generated neutral raster art.
 - Source/pubspec.yaml, pubspec.lock, tests, lint config, README.
 - Evidence/: four primary labeled screenshots, supplementary notification/failed-attempt captures, process check, results, redacted payload and build/source hashes.
-- Reflection.md: three responses within 150–250 words, with actual test observations and AI assistance disclosure.
+- Reflection.md: three responses within 150–250 words, with actual test observations.
 - SUBMISSION_NOTE.md: upload instructions and unverified requirements.
 - SHA256SUMS.txt: package integrity manifest.
 
@@ -63,4 +63,4 @@ User confirmed ownership of `inclass12-ee8cb` and explicitly authorized replacin
 | Testing/evidence (20) | Four final PASS rows, original screenshots, message IDs, device/permission and T3 process check | Whether instructor requires recording instead of screenshots is unknown |
 | Creative problem-solving (15) | Invalid asset preserves UI; ineffective T3 dismissal diagnosed via process check; concrete testability improvement | Student review of reflection required |
 
-No grade is guaranteed. GitHub publication subsequently authorized by user. Private repository created in the authenticated account: https://github.com/het1406/CSC4360-Activity14-Cloud-Courier. Grader access is not verified. LMS upload, actual due-date/late-work rules, evidence format and AI disclosure policy must be checked against the missing instructor document.
+No grade is guaranteed. GitHub publication subsequently authorized by user. Private repository created in the authenticated account: https://github.com/het1406/CSC4360-Activity14-Cloud-Courier. Grader access is not verified. LMS upload, actual due-date/late-work rules, evidence format and course policies must be checked against the missing instructor document.

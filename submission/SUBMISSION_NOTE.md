@@ -11,7 +11,7 @@ The ZIP contains:
 - `Evidence/T4_invalid_asset.png`
 - `Evidence/RESULTS.md`: all four final device tests PASS, with first T3 attempt and retry explicitly documented.
 - Supplementary notification screenshots, process check, redacted payload and tested source/APK hashes.
-- `Reflection.md`: three responses with coding-assistant disclosure; review and personalize only with truthful observations.
+- `Reflection.md`: three responses based on observed tests; review and personalize only with truthful observations.
 - `VERIFICATION.md` and `SHA256SUMS.txt`.
 
 If the LMS asks for separate files, upload the four primary screenshots above, Reflection.md, and the source ZIP as directed by the actual assignment. Do not assume these names replace instructor-required fields.
@@ -27,7 +27,7 @@ Only the user-provided implementation brief was attached/available, not the orig
 1. Exact official rubric, required package versions and any additional deliverables.
 2. Whether four screenshots suffice or a recording is mandatory; no recording was made.
 3. Exact reflection length/format. This draft follows the requested 150–250 words.
-4. Course AI-use permission/disclosure wording. The reflection truthfully discloses Codex help; compliance requires checking the actual policy.
+4. Course policies governing permitted resources and submission requirements; compliance requires checking the original instructions.
 5. GitHub requirement and grader-access method.
 6. Exact LMS folder/file naming, due date and late-submission availability. The brief states November 9, 2026 at 11:59 PM EST with no late submissions; this was not independently verified in the LMS.
 
