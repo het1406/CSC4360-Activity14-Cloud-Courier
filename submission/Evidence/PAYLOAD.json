@@ -1,0 +1,11 @@
+{
+  "message": {
+    "token": "[REDACTED_DEVICE_REGISTRATION_TOKEN]",
+    "notification": {
+      "title": "New promotion",
+      "body": "T1: Switch the screen to the promo asset"
+    },
+    "data": {"action": "update_ui", "asset": "promo"},
+    "android": {"priority": "HIGH"}
+  }
+}

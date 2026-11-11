@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155973070878",
+    "project_id": "inclass12-ee8cb",
+    "storage_bucket": "inclass12-ee8cb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155973070878:android:a7be66e3a4ffd8d9bbfe0f",
+        "android_client_info": {
+          "package_name": "edu.student.hetjani.campus_supply_desk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv7ManhunXdiY69Vp4RE51qAaeA1R0NaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
